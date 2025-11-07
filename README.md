@@ -1,22 +1,22 @@
-# spotify-coocurrence-graphs
-# 🎧 Spotify Co-occurrence Graphs
+
+# Spotify Co-occurrence Graphs
 
 Analiza las relaciones entre canciones en playlists públicas de Spotify usando **grafos de co-ocurrencia**.
 ---
 
-## 📖 Descripción
+## Descripción
 
 Este proyecto explora cómo las canciones se agrupan y conectan dentro de playlists creadas por usuarios de Spotify.  
 A través del análisis de grafos, se busca identificar **patrones**, **comunidades musicales** y **conexiones** entre géneros, artistas y estilos.
 
 ---
 
-## 🧠 Objetivo
+## Objetivo
 
-Comprender cómo los usuarios relacionan canciones dentro de sus playlists y visualizar las **redes de co-ocurrencia** que se forman entre ellas
+Comprender cómo los usuarios relacionan canciones dentro de sus playlists y visualizar las redes de co-ocurrencia que se forman entre ellas
 ---
 
-## 📂 Estructura del proyecto
+## Estructura del proyecto
 
 spotify-coocurrence-graphs/
 ├── data/          # Datos crudos y procesados (playlists, canciones, grafos, etc.)
@@ -24,7 +24,7 @@ spotify-coocurrence-graphs/
 ├── LICENSE        # Licencia del proyecto
 └── README.md      # Documentación principal
 
-## 🛠️ Tecnologías y Herramientas
+##  Tecnologías y Herramientas
 
 - **Python**  
   - Librerías principales: `pandas`, `numpy`, `networkx`, `matplotlib`, `plotly`, `seaborn`
